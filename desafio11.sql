@@ -1,3 +1,3 @@
-SELECT notes FROM northwind.purchase_orders
+SELECT notes FROM purchase_orders
 LIMIT 5
 OFFSET 6;
